@@ -1,22 +1,10 @@
-﻿/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
-
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-
-/* =============================================================
-   GENERAL STYLES
- ============================================================ */
+﻿
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 30px;
     font-size: 14px;
 }
+
 
 .set-pad {
     padding-top:35px;
@@ -34,7 +22,7 @@ body {
 }
 
 #menu {
-    background-color: cadetblue;
+    background-color:lightcyan;
     color: #fff;
     font-size: 12px;
     font-weight: 900;
@@ -46,11 +34,6 @@ body {
 .navbar-inverse {
     border-color: transparent;
 }
-
-    .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
-        color: #FFF;
-        padding: 22px 10px;
-    }
 
 
 /*=====================================
