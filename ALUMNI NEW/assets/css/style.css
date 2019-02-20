@@ -94,9 +94,19 @@ body {
     background: #E9E9E9;
     color: #000;
 }
+.tag-lane {
+    background color: darkgray;
+    color: darkcyan;
+}
 
     .tag-line h2 {
         font-size: 20px;
+        font-weight: 900;
+        padding: 5px 10px 10px 5px;
+        color: #005E5A;
+    }
+.tag-lane {
+        font-size: 18px;
         font-weight: 900;
         padding: 5px 10px 10px 5px;
         color: #005E5A;
