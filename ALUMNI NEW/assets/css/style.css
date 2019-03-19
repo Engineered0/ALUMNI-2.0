@@ -2,7 +2,9 @@
   width: 400px;
   margin: auto;
 }
-
+headd{
+    color:aqua;
+}
 strong {
   width: 350px;
   position: absolute;
@@ -112,9 +114,9 @@ body {
 }
 
 #menu {
-    background-color:lightcyan;
-    color: #fff;
-    font-size: 12px;
+    background-color:powderblue;
+    color: black;
+    font-size: 9px;
     font-weight: 900;
     letter-spacing: 1px;
     min-height: 70px;
@@ -146,7 +148,7 @@ body {
     }
 
     .home-sec h1 {
-        color: #fff;
+        color:darkslategrey;
         font-weight: 900;
         font-size: 50px;
         text-transform: uppercase;
@@ -350,4 +352,23 @@ h1::after {
     text-align:right;
     color:#fff;
     font-size:15px;
+}
+/*====================================
+Button styles
+====================================*/
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  align-content: center;
+}
+.button:hover {
+  background-color: #f1f1f1;
 }
